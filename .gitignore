@@ -1,0 +1,10 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos compactados
+*.zip

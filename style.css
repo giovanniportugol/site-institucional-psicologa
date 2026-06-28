@@ -94,7 +94,9 @@ a {
 
 .logo-area strong {
   display: block;
-  font-family: "Fraunces", serif;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   font-size: 1.42rem;
   color: var(--green-2);
   line-height: 1;
@@ -207,10 +209,11 @@ a {
 }
 
 .hero-panel h1 {
-  font-family: "Fraunces", serif;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   font-size: clamp(2.65rem, 5.7vw, 5.25rem);
   line-height: 1.05;
-  letter-spacing: -1.5px;
   color: var(--green-2);
   max-width: 700px;
   margin-bottom: 24px;
@@ -274,7 +277,9 @@ a {
 
 .mini-stats strong {
   display: block;
-  font-family: "Fraunces", serif;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   font-size: 1.2rem;
   color: var(--green-2);
 }
@@ -319,8 +324,10 @@ a {
 
 .floating-card strong {
   display: block;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   color: var(--green-2);
-  font-family: "Fraunces", serif;
   font-size: 1.28rem;
 }
 
@@ -341,6 +348,9 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   color: var(--heading-color);
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   font-size: 1.3rem;
 }
 
@@ -368,12 +378,16 @@ a {
 }
 
 .section-heading h2 {
-  font-family: "Fraunces", serif;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   color: var(--green-2);
   font-size: clamp(2rem, 4vw, 3.2rem);
   max-width: 600px;
   line-height: 1.1;
 }
+
+/* NENHUMA REGRA ESPECIAL PARA O "O" – A FONTE MERRIWEATHER JÁ É PROPORCIONAL */
 
 .steps {
   display: grid;
@@ -403,7 +417,9 @@ a {
 }
 
 .steps h3 {
-  font-family: "Fraunces", serif;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   font-size: 1.45rem;
   color: var(--green-2);
   margin-bottom: 10px;
@@ -443,7 +459,9 @@ a {
 }
 
 .anxiety-copy h2 {
-  font-family: "Fraunces", serif;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   font-size: clamp(2rem, 4vw, 3.4rem);
   line-height: 1.1;
   max-width: 650px;
@@ -510,7 +528,9 @@ a {
 }
 
 .location-card h3 {
-  font-family: "Fraunces", serif;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   color: var(--green-2);
   font-size: 1.55rem;
   margin-bottom: 12px;
@@ -549,7 +569,7 @@ a {
   text-align: center;
 }
 
-/* ===== CTA FINAL (REFINADO) ===== */
+/* ===== CTA FINAL ===== */
 .closing-cta {
   padding: 0 0 52px;
 }
@@ -571,7 +591,9 @@ a {
 }
 
 .closing-box h2 {
-  font-family: "Fraunces", serif;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   font-size: clamp(2rem, 3.5vw, 2.8rem);
   line-height: 1.1;
   color: var(--green-2);
@@ -653,10 +675,11 @@ a {
 }
 
 .footer-info .name {
-  font-family: "Fraunces", serif;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   font-size: 1.4rem;
   color: white;
-  font-weight: 700;
 }
 
 .footer-info .crp {
